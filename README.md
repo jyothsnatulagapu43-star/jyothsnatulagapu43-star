@@ -4,12 +4,6 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://i.ibb.co/mytnRrt/header.gif">
-</div>
-
-
-
 I'm a Software Developer based in India 🇮🇳, passionate about building high-performance, scalable applications that solve real-world problems.
 
 
@@ -25,11 +19,12 @@ I'm a Software Developer based in India 🇮🇳, passionate about building high
 
 **Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming`
 
-## ✨ Fun Facts
+## ✨ Personal Interests
 
-- 🎬 "The Pursuit of Happyness" & "The Internship" is my favorite movie.
-- 🍿 I prefer Hollywood movies over Bollywood.
-- 🧠 I enjoy absorbing knowledge from various sources, be it books, videos, conversations, tech talks, and real-world challenges.
+- 🎨 I love expressing creativity through **painting**.
+- 🎤 Singing is one of my favorite ways to relax and recharge.
+- 💃 I enjoy **dance** as a form of expression, energy, and joy.
+
 
 ## 📫 Contact
 
